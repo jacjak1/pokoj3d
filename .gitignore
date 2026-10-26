@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+x64/
+Debug/
+Release/
+Pokoj 3d/x64/
+Pokoj 3d/Debug/
+Pokoj 3d/Release/
+*.obj
+!resources/**/*.obj
+*.exe
+*.pdb
+*.ilk
+*.tlog
+*.idb
+*.log
+*~
+.agents/
+*.dll
